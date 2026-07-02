@@ -1,4 +1,4 @@
-# Analisador de Razão Contábil - Super Recofran
+# Analisador de Razão Contábil
 
 ## Descrição
 
