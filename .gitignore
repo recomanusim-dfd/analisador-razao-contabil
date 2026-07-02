@@ -1,0 +1,28 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node (se usado no futuro)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Arquivos temporários
+temp/
+tmp/
+*.tmp
+
+# PDFs de teste (opcional - remova se quiser versioná-los)
+*.pdf
